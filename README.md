@@ -1,0 +1,2 @@
+# SqaureCollector
+Collect the Sqaures
