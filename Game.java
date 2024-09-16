@@ -1,8 +1,5 @@
 import javax.swing.*;
 
-import javafx.scene.layout.Border;
-import javafx.scene.layout.BorderPane;
-
 import java.awt.*;
 import java.awt.event.*;
 
